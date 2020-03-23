@@ -1,0 +1,17 @@
+{
+    "name": "matt/ann",
+    "authors": [
+        {
+            "name": "matt",
+            "email": "matt@zuso.ai"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "doctrine/annotations": "^1.8"
+    }
+}
